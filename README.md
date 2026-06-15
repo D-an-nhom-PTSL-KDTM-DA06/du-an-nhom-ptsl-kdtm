@@ -1,6 +1,6 @@
 # ĐỀ TÀI: XÂY DỰNG HỆ THỐNG PHÂN TÍCH HIỆU SUẤT NHÂN VIÊN BÁN HÀNG VÀ DỰ ĐOÁN SALES PERFORMANCE BẰNG BUSINESS INTELLIGENCE VÀ MACHINE LEARNING
-**Lớp học phần: 65.HTTT
-**Môn Phân tích số liệu và Kinh doanh thông minh
+Lớp học phần: 65.HTTT
+Môn Phân tích số liệu và Kinh doanh thông minh
 ## DANH SÁCH THÀNH VIÊN NHÓM:
 1. Thiều Xuân Ý - MSSV: 65134505 (Trưởng nhóm)
 2. Chu Bùi Khánh Vân - MSSV: 65134231 (Phó nhóm)
