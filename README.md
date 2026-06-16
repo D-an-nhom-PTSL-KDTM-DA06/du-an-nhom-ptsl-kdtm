@@ -7,4 +7,4 @@ Môn Phân tích số liệu và Kinh doanh thông minh
 2. Chu Bùi Khánh Vân - MSSV: 65134231
 3. Huỳnh Hải My - MSSV: 65131989 
 4. Lê Biện Anh Ý - MSSV: 65134484 
-5. Bùi Hoành Minh - MSSV: 65139023 
+5. Bùi Hoành Minh - MSSV: 65131929
