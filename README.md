@@ -3,8 +3,8 @@ Lớp học phần: 65.HTTT
 
 Môn Phân tích số liệu và Kinh doanh thông minh
 ## DANH SÁCH THÀNH VIÊN NHÓM:
-1. Thiều Xuân Ý - MSSV: 65134505 (Trưởng nhóm)
-2. Chu Bùi Khánh Vân - MSSV: 65134231 (Phó nhóm)
-3. Huỳnh Hải My - MSSV: 65131989 (Thành viên)
-4. Lê Biện Anh Ý - 65134484 (Thành viên)
-5. Bùi Hoành Minh - 65139023 (Thành viên)
+1. Thiều Xuân Ý - MSSV: 65134505 
+2. Chu Bùi Khánh Vân - MSSV: 65134231
+3. Huỳnh Hải My - MSSV: 65131989 
+4. Lê Biện Anh Ý - MSSV: 65134484 
+5. Bùi Hoành Minh - MSSV: 65139023 
